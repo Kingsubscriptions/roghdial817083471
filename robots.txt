@@ -7,4 +7,4 @@ Allow: /
 User-agent: AdsBot-Google-Mobile
 Allow: /
 
-Sitemap: https://myinternetadvisor.com/sitemap.xml
+Sitemap: https://roghdial.com/sitemap.xml
