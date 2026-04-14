@@ -7,4 +7,4 @@ Allow: /
 User-agent: AdsBot-Google-Mobile
 Allow: /
 
-Sitemap: https://theinternetadvisor.com/sitemap.xml
+Sitemap: https://myinternetadvisor.com/sitemap.xml
